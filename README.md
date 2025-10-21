@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tech Portfolio - Full Stack Developer
 
 A modern, responsive portfolio website showcasing full-stack development skills, projects, and experience.
@@ -94,3 +95,6 @@ Feel free to use this template for your own portfolio!
 ---
 
 Built with 💜 and ☕
+=======
+# kbornfas.github.io
+>>>>>>> 65aaa81e2277c17d95234c9a26d7ba04a61de6fb
